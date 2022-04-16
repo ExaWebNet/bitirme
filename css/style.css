@@ -135,4 +135,8 @@ a {
     #bottomFooter {
         text-align: center !important;
     }
+    #projeler .col-md-6:nth-child(2),
+    #projeler .col-md-6:nth-child(4) {
+        margin-top: 20px !important;
+    }
 }
