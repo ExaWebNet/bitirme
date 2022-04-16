@@ -114,3 +114,10 @@ a {
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+#kvkkBanner {
+    background-image: url(../img/kvkk-banner-1200x800.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
