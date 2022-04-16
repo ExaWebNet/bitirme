@@ -79,3 +79,17 @@ a {
     color: #17a2b8;
     transition: .5s;
 }
+
+#hakkimizdaBanner {
+    background-image: url(../img/hakkimizda-1200x600.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#referansBanner {
+    background-image: url(../img/referans-1200x675.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
